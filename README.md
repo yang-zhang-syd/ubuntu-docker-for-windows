@@ -1,4 +1,4 @@
-#Build docker image adait/ubuntu with following command.
+#Build docker image yzhang/ubuntu with following command.
 
 ```
 docker-compose build
