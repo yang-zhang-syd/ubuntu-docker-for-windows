@@ -9,3 +9,7 @@ docker-compose build
 ```
 docker run -v C:\YOUR\LOCAL\PATH\tmp:/tmp -it yzhang/ubuntu
 ```
+
+```
+docker run -v D:\workspace:/tmp -it yzhang/ubuntu
+```
